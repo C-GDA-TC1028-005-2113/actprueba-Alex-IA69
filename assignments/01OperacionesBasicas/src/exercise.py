@@ -6,7 +6,5 @@ def main():
     print("Resta: " + str(num1-num2))
     print("Multiplicación: " + str(num1*num2))
 
-
-
 if __name__ == '__main__':
     main()
